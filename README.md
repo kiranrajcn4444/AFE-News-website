@@ -1,1 +1,1 @@
-# AFE-News-website
+ Responsive News Website built using HTML and CSS.
